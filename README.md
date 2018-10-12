@@ -7,3 +7,19 @@
   * git config --global user.email "computers.tmk@gmail.com"
   * git config core.editor "notepad++ -multiInst -nosession"
   * git config --edit --global
+  
+ # Creating git rerpositry in local machine
+ * To create a new repository on local machine run below commands
+   * git init DemoApp
+   * cd DemoApp
+   * ls -la
+ * To check status of repositry 
+   * git status
+ * To create a new file REDEAME.md run below command
+   * alias notepad="/c/Program\ Files\ \(x86\)/Notepad++/notepad++.exe" 
+   * notepad README.md   
+             OR
+   * touch README.md
+
+
+  
