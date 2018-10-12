@@ -21,7 +21,7 @@
              OR
    * touch README.md
    
- * Add Some content in README.md . I have added # Hello Seeya and Save this file.
+ * Add Some content in README.md.I have added # Hello Seeya and Save this file.
  * Then check status again which shows status that we have an untracked file
    * git status
  * Track the changes in README.md file with command
