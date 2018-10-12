@@ -36,13 +36,14 @@
   * We can create a new repository on github.com with clicking on new New Repository button
   * Choose a unique name within your account for new repository and add description also
   * you have 3 options for working with newly created repository
-  1. create a new repository on the command line
-    - echo "# sample-repo" >> README.md
-    - git init
-    - git add README.md
-    - git commit -m "first commit"
-    - git remote add origin https://github.com/tmk-computers/sample-repo.git
-    - git push -u origin master
+  
+* Create a new repository on the command line
+  * echo "# sample-repo" >> README.md
+  * git init
+  * git add README.md
+  * git commit -m "first commit"
+  * git remote add origin https://github.com/tmk-computers/sample-repo.git
+  * git push -u origin master
   
  
 
