@@ -19,8 +19,7 @@
    * alias notepad="/c/Program\ Files\ \(x86\)/Notepad++/notepad++.exe" 
    * notepad README.md   
              OR
-   * touch README.md
-   
+   * touch README.md   
  * Add Some content in README.md.I have added # Hello Seeya and Save this file.
  * Then check status again which shows status that we have an untracked file
    * git status
@@ -30,6 +29,8 @@
    * git add .
 * Then check status again which shows status that we have a staged file
    * git status
+* Now we can commit the file with readable message
+  * git commit -m "Intitial Commit"
   
  
 
