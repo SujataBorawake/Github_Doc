@@ -37,14 +37,19 @@
   * Choose a unique name within your account for new repository and add description also
   * you have 3 options for working with newly created repository
   
-* Create a new repository on the command line
+1. Create a new repository on the command line
   * echo "# sample-repo" >> README.md
   * git init
   * git add README.md
   * git commit -m "first commit"
   * git remote add origin https://github.com/tmk-computers/sample-repo.git
   * git push -u origin master
-
+2. push an existing repository from the command line
+  * git remote add origin https://github.com/tmk-computers/sample-repo.git
+  * git push -u origin master
+3. import code from another repository
+   * We can check if local repository is connected with any remote repository
+    * git remote -v
   
  
 
